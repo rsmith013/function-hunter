@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+"""
+Script to find the coefficients for a sine curve hidden between 2 queues on a RabbitMQ server.
+"""
+
+__author__ = "Richard Smith"
+__date__ = "10 March 2019"
+
 import pika
 import uuid
 import json

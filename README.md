@@ -1,4 +1,4 @@
-# Sin Function Finder
+# Sine Function Finder
 
 Script to find the hidden sin function on a AMPQ server such as RabbitMQ.
 
